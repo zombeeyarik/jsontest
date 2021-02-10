@@ -13,20 +13,5 @@
 		"name": "Zendure 4-Port USB",
 		"price": 49,
 		"img": "img/zendure.jpg"
-	},
-	{
-		"name": "Withings Smart Body Analyzer ws-50",
-		"price": 39,
-		"img": "img/withings.jpg"
-	},
-	{
-		"name": "Ollo Clip New",
-		"price": 19,
-		"img": "img/ollo.jpg"
-	},
-	{
-		"name": "Fitbit Charge Heart Rate and Activity Tracker",
-		"price": 19,
-		"img": "img/fitbit.jpg"
 	}
 ]
