@@ -1,32 +1,32 @@
 [
 	{
-		name: "Apple TV 32GB",
-		price: 49,
-		img: "img/appletv.jpg"
+		"name": "Apple TV 32GB",
+		"price": 49,
+		"img": "img/appletv.jpg"
 	},
 	{
-		name: "Pebble Time",
-		price: 29,
-		img: "img/pebble.jpg"
+		"name": "Pebble Time",
+		"price": 29,
+		"img": "img/pebble.jpg"
 	},
 	{
-		name: "Zendure 4-Port USB",
-		price: 49,
-		img: "img/zendure.jpg"
+		"name": "Zendure 4-Port USB",
+		"price": 49,
+		"img": "img/zendure.jpg"
 	},
 	{
-		name: "Withings Smart Body Analyzer ws-50",
-		price: 39,
-		img: "img/withings.jpg"
+		"name": "Withings Smart Body Analyzer ws-50",
+		"price": 39,
+		"img": "img/withings.jpg"
 	},
 	{
-		name: "Ollo Clip New",
-		price: 19,
-		img: "img/ollo.jpg"
+		"name": "Ollo Clip New",
+		"price": 19,
+		"img": "img/ollo.jpg"
 	},
 	{
-		name: "Fitbit Charge Heart Rate and Activity Tracker",
-		price: 19,
-		img: "img/fitbit.jpg"
+		"name": "Fitbit Charge Heart Rate and Activity Tracker",
+		"price": 19,
+		"img": "img/fitbit.jpg"
 	},
 ];
