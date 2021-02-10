@@ -3,15 +3,5 @@
 		"name": "Apple TV 32GB",
 		"price": 49,
 		"img": "img/appletv.jpg"
-	},
-	{
-		"name": "Pebble Time",
-		"price": 29,
-		"img": "img/pebble.jpg"
-	},
-	{
-		"name": "Zendure 4-Port USB",
-		"price": 49,
-		"img": "img/zendure.jpg"
 	}
 ]
